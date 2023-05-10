@@ -1,0 +1,17 @@
+h2 {
+  text-align: center;
+}
+
+img {
+  /*20rem is 200px*/
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+  background-color: plum;
+  /*border: thickness, style,and colour*/
+  border: 5px solid plum;
+
+  /*1 rem is 10px*/
+  border-radius: 1rem;
+  margin: 5px;
+}
